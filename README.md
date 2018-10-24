@@ -9,6 +9,6 @@ Screen Captured on Android Emulator.
 
 <div align="center">
   
-	<img src="https://github.com/kelvinator07/Dicee/blob/master/Screenshot_20181023-234014.png" style=" 	width:100px ; height:100px " />
+<img src="https://github.com/kelvinator07/Dicee/blob/master/Screenshot_20181023-234014.png" style="width:100px ;height:100px" />
 
 </div>
