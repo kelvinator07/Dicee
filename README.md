@@ -7,8 +7,7 @@ This is a simple dice rolling app. When the user clicks the icon they are taken 
 
 Screen Captured on Android Emulator.
 
-<div align="center">
-  
-<img src="https://github.com/kelvinator07/Dicee/blob/master/Screenshot_20181023-234014.png" style="width:100px ;height:100px" />
 
-</div>
+<p align="center">
+  <img src="https://github.com/kelvinator07/Dicee/blob/master/Screenshot_20181023-234014.png" width="300" />
+</p>
